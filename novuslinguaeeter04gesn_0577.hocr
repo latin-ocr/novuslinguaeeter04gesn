@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lta-11000/novuslinguaeeter04gesn/novuslinguaeeter04gesn_0577.png"; bbox 0 0 2434 4156; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 64 1170 2189 1868">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 980 2189 1868">
+     <span class='ocr_line' id='line_1_1' title="bbox 64 1170 2189 1346; baseline 0.003 -5.825"><span class='ocrx_word' id='word_1_1' title='bbox 64 1170 2189 1346; x_wconf 74' lang='lat' dir='ltr'><strong>LATINITATIS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 540 1607 1681 1868; baseline 0.002 -2.72"><span class='ocrx_word' id='word_1_2' title='bbox 540 1607 1681 1868; x_wconf 82' lang='lat' dir='ltr'>INDEX</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 2059 2031 2269">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 2032 2031 2269">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 2059 2031 2269; baseline 0.003 -9"><span class='ocrx_word' id='word_1_3' title='bbox 0 2059 3 2132; x_wconf 94' lang='lat'><em>⁵</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 186 2124 2031 2269; x_wconf 83' lang='lat' dir='ltr'><strong>ETYMOLOG-ICVS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
